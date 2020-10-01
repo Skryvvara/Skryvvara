@@ -5,6 +5,7 @@
 ### Current Goals:
 - learn React and JavaScript
 - finish my portofolio site
+- get better wiht PHP
 
 ### Skills
 
