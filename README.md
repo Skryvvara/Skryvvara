@@ -4,6 +4,7 @@
 </div>
 
 <h2>Hi there :wave:</h2>
+
 I am **`Dimitri`**, working as a **`System Integrator @ Procter & Gamble`** in Germany. Besides that I spend a lot of time tinkering on websites using different technology stacks. I like learning different languages thus I am experienced with **`JavaScript, Typescript, Vue, C#, PHP, Python, HTML, CSS and SCSS`**. On the OS side of things I have worked with **`Linux`** (mostly Ubuntu and Arch), **`Mac OSX`** and **`Windows`**.
 
 <h2>Shorts :zap:</h2>
