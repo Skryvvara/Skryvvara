@@ -26,6 +26,7 @@ I am Dimitri, a System Integrator @ Procter & Gamble in Germany. Outside the off
 - [Express](http://expressjs.com/)
 - [tRPC](https://trpc.io/)
 - [Github Actions](https://docs.github.com/en/actions)
+- [Prisma](https://www.prisma.io/)
 
 <h2>:alarm_clock: Languages I want to learn</h2>
 
