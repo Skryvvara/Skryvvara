@@ -3,7 +3,7 @@
 <img width="420" src="https://github-readme-stats.vercel.app/api?username=xdarkyne&count_private=true&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdarkyne&layout=compact&theme=nord&hide_border=true"/>
 </div>
 
-<h2>:wave: Hi there</h2>
+<h2>:wave: Hi there!</h2>
 
 I am Dimitri, a System Integrator @ Procter & Gamble in Germany. Outside the office I like to spend my time tinkering on websites and learning all sorts of stuff about technology. I feel most comfortable with Nextjs using TypeScript and tRPC.
 
