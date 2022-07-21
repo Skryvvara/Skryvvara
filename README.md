@@ -9,6 +9,7 @@ I am Dimitri, a System Integrator @ Procter & Gamble in Germany. Outside the off
 
 <h2>:books: Known Languages</h2>
 
+- [Golang](https://go.dev/)
 - [TypeScript](https://www.typescriptlang.org/) & [JavaScript](https://www.javascript.com/)
 - [Python](https://www.python.org/)
 - [HTML](https://www.w3.org/html/), [CSS](https://www.w3.org/Style/CSS/Overview.en.html) & CSS-extensions (e.g. [SASS/SCSS](https://sass-lang.com/))
@@ -30,5 +31,4 @@ I am Dimitri, a System Integrator @ Procter & Gamble in Germany. Outside the off
 
 <h2>:alarm_clock: Languages I want to learn</h2>
 
-- [Golang](https://go.dev/)
 - [Rust](https://www.rust-lang.org/)
