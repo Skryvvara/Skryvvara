@@ -5,7 +5,7 @@
 
 <h2>:wave: Hi there!</h2>
 
-I am Dimitri, a System Integrator @ Procter & Gamble in Germany. Outside the office I like to spend my time tinkering on websites and learning all sorts of stuff about technology. I feel most comfortable with Nextjs using TypeScript and tRPC.
+I am Dimitri, a Junior DevOps Specialist @ fintus. Outside the office I like to spend my time tinkering on websites and learning all sorts of stuff about technology. I feel most comfortable with Nextjs using TypeScript and tRPC.
 
 <h2>:books: Known Languages</h2>
 
