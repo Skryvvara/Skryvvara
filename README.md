@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Hi! I'm Dimitri (Darkyne)</h1>
-<img width="420" src="https://github-readme-stats.vercel.app/api?username=xdarkyne&count_private=true&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdarkyne&layout=compact&theme=nord&hide_border=true"/>
+<h1>Hi! I'm Dimitri (Skryvvara / Darkyne)</h1>
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=skryvvara&count_private=true&theme=nord&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skryvvara&layout=compact&theme=nord&hide_border=true"/>
 </div>
 
 <h2>:wave: Hi there!</h2>
