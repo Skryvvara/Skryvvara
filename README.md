@@ -10,7 +10,7 @@ I am Dimitri, a Junior DevOps Specialist @ fintus. Outside the office I like to 
 
 When spending time away from my Code Editor I like to dive into video games of all sorts but mostly story rich RPG games and I love watching movies and reading books.
 
-📖 I'm currently honing my skills with Reac and Go
+📖 I'm currently honing my skills with [React](https://reactjs.org) and [Go](https://go.dev)
 
 <br />
 
