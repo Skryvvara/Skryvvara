@@ -18,7 +18,7 @@ When spending time away from my Code Editor I like to dive into video games of a
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vue,nodejs,express,mongodb,postgres,next,nuxt,php,git,go,cs,dotnet,docker,jenkins,linux,vite,lua,prisma&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,vue,nodejs,express,mongodb,postgres,next,nuxt,php,git,go,cs,dotnet,docker,jenkins,linux,vite,laravel,prisma&perline=8" />
   </a>
 </p>
   <p>Disclaimer: I'm not a god at all of these technologies, I use whatever solves the issue at hand and some of these weren't used in a long time. But I know where to find the information and after a while of re-learning I'm good to go again.</p>
