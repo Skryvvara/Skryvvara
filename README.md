@@ -15,7 +15,7 @@ When spending time away from my Code Editor I like to dive into video games of a
 ---
 <p>Stuff I have worked with in the past</p>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,next,vue,laravel,postgres,mongodb,cs,c,cpp,go,lua,bash,powershell,kubernetes,openshift,docker,ansible,jenkins,bsd,linux,nginx,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,react,next,vue,laravel,postgres,mongodb,cs,c,cpp,go,lua,bash,powershell,kubernetes,openshift,docker,jenkins,bsd,linux,nginx,github,gitlab" />
 </a>
 
 <p>Disclaimer: I'm not a god at all of these technologies, I use whatever solves the issue at hand and some of these weren't used in a long time. But I know where to find the information and after a while of re-learning I'm good to go again.</p>
