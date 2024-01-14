@@ -1,2 +1,13 @@
-<h1>This profile is under construction.</h1>
-<img src="https://cdn.pixabay.com/photo/2017/10/26/17/51/under-construction-2891888_1280.jpg" alt="Under Construction">
+## Hi there, I'm Dimitri
+
+I'm currently a junior devops engineer in Germany. 
+You can find some of my non-commercial work here, from trying out new tech/languages to some bigger projects.
+
+#### A bit about me
+- I'm mostly working with **go**, **c** and **lua**
+- Tech I'm using the most is Kubernetes, Jenkins and Docker
+- Currently learning more about **c** and **lua**
+
+[**Email**](mailto:dev@skryvvara.com) | [**Linkedin**](https://www.linkedin.com/in/dimitri-kaiser/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skryvvara&layout=compact&langs_count=8&theme=nord)
