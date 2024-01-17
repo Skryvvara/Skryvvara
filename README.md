@@ -10,4 +10,4 @@ You can find some of my non-commercial work here, from trying out new tech/langu
 
 [**Email**](mailto:dev@skryvvara.com) | [**Linkedin**](https://www.linkedin.com/in/dimitri-kaiser/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skryvvara&layout=compact&langs_count=8&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skryvvara&layout=compact&langs_count=8&theme=dark)
