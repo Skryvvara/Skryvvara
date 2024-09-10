@@ -1,13 +1,13 @@
 ## Hi there, I'm Dimitri
 
-I'm currently a junior devops engineer in Germany. 
+I'm currently a devops engineer in Germany. 
 You can find some of my non-commercial work here, from trying out new tech/languages to some bigger projects.
 
 #### A bit about me
 - I'm mostly working with **go**, **c** and **lua**
 - Tech I'm using the most is Kubernetes, Jenkins and Docker
 - Currently learning more about **c** and **lua**
-- Reading at the moment: [Dune series](https://en.wikipedia.org/wiki/Dune_(franchise))
+- Reading at the moment: [The Expanse series](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))
 
 [**Email**](mailto:dev@skryvvara.com) | [**Linkedin**](https://www.linkedin.com/in/dimitri-kaiser/)
 
