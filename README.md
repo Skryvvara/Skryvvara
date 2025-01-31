@@ -7,7 +7,6 @@ You can find some of my non-commercial work here, from trying out new tech/langu
 - I'm mostly working with **go**, **c** and **lua**
 - Tech I'm using the most is Kubernetes, Jenkins and Docker
 - Currently learning more about **c** and **lua**
-- Reading at the moment: [The Expanse series](https://en.wikipedia.org/wiki/The_Expanse_(novel_series))
 
 [**Email**](mailto:dev@skryvvara.com) | [**Linkedin**](https://www.linkedin.com/in/dimitri-kaiser/)
 
